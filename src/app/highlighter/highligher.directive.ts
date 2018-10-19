@@ -6,7 +6,6 @@ export class HighligherDirective implements OnInit
 {
   constructor(private elementRef:ElementRef)
   {
-    
 
 
   }
